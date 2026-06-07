@@ -10,12 +10,12 @@ Currently working at **rtCamp**, contributing to large-scale WordPress platforms
 
 ## 🚀 About Me
 
-🔭 Building enterprise-grade WordPress platforms
-⚡ Specialized in Gutenberg Block Development & Full Site Editing
-🧩 Architecting scalable WordPress plugins and custom solutions
-🌐 Experienced with distributed global teams and enterprise workflows
-🤖 Leveraging AI-assisted development using Copilot, Claude, Continue.dev, and local LLMs
-❤️ Open-source contributor to WordPress Core and ecosystem projects
+* 🔭 Building enterprise-grade WordPress platforms
+* ⚡ Specialized in Gutenberg Block Development & Full Site Editing
+* 🧩 Architecting scalable WordPress plugins and custom solutions
+* 🌐 Experienced with distributed global teams and enterprise workflows
+* 🤖 Leveraging AI-assisted development using Copilot, Claude, Continue.dev, and local LLMs
+* ❤️ Open-source contributor to WordPress Core and ecosystem projects
 
 ---
 
