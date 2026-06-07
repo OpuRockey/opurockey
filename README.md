@@ -38,15 +38,16 @@ I am a Senior WordPress Engineer with 8+ years of experience building enterprise
 
 </div>
 
-## 📫 Connect With Me
+## 🌐 Connect & Collaborate
 
-* GitHub: https://github.com/OpuRockey
+* GitHub:        https://github.com/OpuRockey
 * WordPress.org: https://profiles.wordpress.org/opurockey/
-* LinkedIn: https://linkedin.com/in/mohammad-rockeybul-alam-b7984510a/
-* Resume: https://drive.google.com/file/d/1XMEB1BLQ72GDrig2ZHAdRP3yUB18kRpv/view
+* LinkedIn:      https://linkedin.com/in/mohammad-rockeybul-alam-b7984510a/
+* Resume:        https://drive.google.com/file/d/1XMEB1BLQ72GDrig2ZHAdRP3yUB18kRpv/view
+* Contributions: https://github.com/OpuRockey/all-projects
 
 ---
 
 ## 💡 Philosophy
 
-> Build maintainable solutions, follow WordPress standards, optimize for performance, and create systems that scale.
+> Build maintainable solutions, follow standards, optimize for performance, and create systems that scale.
